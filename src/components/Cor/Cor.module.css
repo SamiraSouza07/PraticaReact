@@ -1,0 +1,18 @@
+.caixaVerde,.caixaVermelha{
+    color: aliceblue;
+    width: fit-content;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin:15px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+.caixaVermelha{
+    background-color:  rgba(255, 0, 0, 1);
+    ;
+}
+.caixaVerde{
+    background-color:  rgba(0, 128, 0, 1);
+    ;
+}

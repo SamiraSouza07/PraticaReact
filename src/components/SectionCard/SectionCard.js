@@ -26,7 +26,7 @@ function SectionCard(props) {
         />
         <Card
           titulo="PRO"
-          preco="0"
+          preco="199"
           info1="enable"
           info2="enable"
           info3="enable"
@@ -50,7 +50,7 @@ function SectionCard(props) {
         />
         <Card
           titulo="PREMIUM"
-          preco="99"
+          preco="199"
           info1="enable"
           info2="enable"
           info3="disable"
@@ -59,7 +59,7 @@ function SectionCard(props) {
         />
         <Card
           titulo="PRO"
-          preco="0"
+          preco="399"
           info1="enable"
           info2="enable"
           info3="enable"

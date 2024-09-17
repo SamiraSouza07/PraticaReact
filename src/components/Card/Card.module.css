@@ -23,6 +23,14 @@
     color: rgba(45, 46, 46, 1);
 
 }
+.enable::before{
+    content:"\2714";
+    margin-right: 5px;
+}
+.disable::before{
+    content:"\2716";
+    margin-right: 5px;
+}
 .containerInfo{
     background-color: inherit;
     display: flex;
